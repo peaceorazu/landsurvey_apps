@@ -1,0 +1,1 @@
+"web: gunicorn landsurvey_app.wsgi" 
